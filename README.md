@@ -16,6 +16,12 @@ F1 Realted Ideas
 - http://ergast.com/mrd/
 - https://rapidapi.com/api-sports/api/api-formula-1
 - https://api-sports.io/documentation/formula-1/v1
+- https://github.com/theOehrly/Fast-F1/tree/master
+- https://docs.fastf1.dev/changelog/index.html
+- https://openf1.org/
+- https://github.com/jolpica
+
+
 ## Existing sites
 
     https://www.f1technical.net/
